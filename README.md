@@ -1,9 +1,9 @@
 # BinRush
+BinRush was born as a game. During my Advanced Technologies course at university, the professor had shared a link to practice binary numbers, but it did not really convince me. It felt too “cold,” and above all it had no mode for challenging friends.
 
-BinRush nasce per gioco. Durante il corso di Tecnologie Avanzate in università il professore aveva condiviso un link per allenarsi con i numeri binari, ma non mi convinceva. Era troppo “freddo” e soprattutto senza una modalità per sfidarsi tra amici.  
+So I simply came up with the idea of creating a more arcade-like and immediate mini-game, where you can learn (or review) binary while also playing a local duel mode, perfect for a fun student vs professor challenge (or between classmates), all based on speed and reflexes.
 
-Così mi è banalmente venuta l’idea di creare un mini-gioco più arcade e immediato, dove impari (o ripassi) il binario e puoi anche fare un duello locale, perfetto per una sfida simpatica studente vs professore (o tra compagni), tutta a colpi di velocità e riflessi.  
+In reality, nobody really needs it. It is just a silly project I made to have fun and relax while learning something new.
 
-In realtà non è necessario a nessuno, è solo un progetto stupido fatto per divertirmi e svagarmi mentre imparavo qualcosa in più.
 
- **Puoi provarlo qui:** https://fi2ippo.github.io/BinRush/
+ **Try it here.:** https://fi2ippo.github.io/BinRush/
